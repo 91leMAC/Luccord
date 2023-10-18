@@ -7,3 +7,4 @@ This project is here to give an real-time traker for obtaining automaticly Luca'
 ## Authors
 @MeekOnGIthub - Original idea & principal user.
 @91leMAC - the guys who create the github and additionnaly code with his front head on the keyboard.
+@Nardann - Site creator and usefull dinosaur
