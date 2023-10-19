@@ -19,10 +19,10 @@ def sendinformations:
 			status_data = json.load(file)
 
 		conn = mysql.connector.connect(
-			host="https://node15-fr.n0c.com/phpmyadmin/",
-			user="kvukmbfh_lucord",
-			password="1rEIBYX5H=1_",
-			database="kvukmbfh_lucord"
+			host=" ",
+			user=" ",
+			password=" ",
+			database=" "
 		)
 		cursor = conn.cursor()
 		query = "INSERT INTO status_data (user_id, status, timestamp) VALUES (%s, %s, %s)"
